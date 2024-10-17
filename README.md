@@ -6,7 +6,7 @@ Design an Android application with a text field and an "Open in Browser" button.
 To design an Android application with a TextField and a button labeled "Open in Browser." Upon pressing the button, the application should retrieve the URL entered in the TextField and open it in the device's web browser using an implicit intent.
 ## EQUIPMENTS REQUIRED:
 
-Latest Version Android Studio
+za Latest Version Android Studio
 
 ## ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
