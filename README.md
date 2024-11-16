@@ -95,10 +95,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/84635f26-792d-4fdb-ad5b-a8b68d16cdaa)
-![image](https://github.com/user-attachments/assets/41f40603-acd4-40f1-9d18-6be785615aee)
-![image](https://github.com/user-attachments/assets/f45163df-0fde-4553-b560-1efa15dab6b6)
-
+<img src="https://github.com/user-attachments/assets/84635f26-792d-4fdb-ad5b-a8b68d16cdaa" width=200>
+<img src="https://github.com/user-attachments/assets/41f40603-acd4-40f1-9d18-6be785615aee" width=200>
+<img src="https://github.com/user-attachments/assets/f45163df-0fde-4553-b560-1efa15dab6b6" width=200>
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
